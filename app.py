@@ -5,10 +5,10 @@ import numpy as np
  
 
 # loading the trained model.
-model = load_model('model/modelo_pronto')
+model = load_model('modelo_pronto')
 
 # carregando uma amostra dos dados.
-dataset = pd.read_csv('data/estudantes.csv') 
+dataset = pd.read_csv('estudantes.csv') 
 #classifier = pickle.load(pickle_in)
 
 # título

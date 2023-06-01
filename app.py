@@ -15,7 +15,7 @@ dataset = pd.read_csv('estudantes.csv')
 st.title("Predição de notas de matemática")
 
 # subtítulo
-st.markdown("Este é um Data App utilizado para exibir a solução de Machine Learning para o problema de predição de notas de matemática.")
+st.markdown("Dupla: Leonardo Rodrigues / Vitor Matos")
 
 
 
